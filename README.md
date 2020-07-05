@@ -9,3 +9,4 @@ A `PlaybackPolicy` can be constructed in two ways:
 Once defined, get an action using `POMDPs.action(p::PlaybackPolicy, s)`
 
 
+Maintained by Anthony Corso (acorso@stanford.edu)
