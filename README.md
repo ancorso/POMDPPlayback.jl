@@ -1,4 +1,6 @@
 # POMDPPlayback.jl
+[![Build Status](https://travis-ci.org/sisl/POMDPPlayback.jl.svg?branch=master)](https://travis-ci.org/sisl/POMDPPlayback.jl) [![Coverage Status](https://coveralls.io/repos/github/sisl/POMDPPlayback.jl/badge.svg?branch=master)](https://coveralls.io/github/sisl/POMDPPlayback.jl?branch=master) [![codecov](https://codecov.io/gh/sisl/POMDPPlayback.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/sisl/POMDPPlayback.jl)
+
 This package defines a policy for rolling out a pre-defined sequence of actions to an MDP or POMDP defined with the `POMDPs.jl` package.
 
 ## Usage
